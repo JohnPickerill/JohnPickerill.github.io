@@ -23,11 +23,18 @@ br
 	mso-protection:locked visible;
 	mso-style-name:Normal;
 	mso-style-id:0;}
+.font7
+	{color:black;
+	font-size:9.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Tahoma;
+	mso-generic-font-family:auto;
+	mso-font-charset:1;}
 td
 	{mso-style-parent:style0;
-	padding-top:1px;
-	padding-right:1px;
-	padding-left:1px;
+	padding:0px;
 	mso-ignore:padding;
 	color:black;
 	font-size:11.0pt;
@@ -77,3 +84,25 @@ td
 	border:.5pt solid #9BBB59;
 	background:#EBF1DE;
 	mso-pattern:black none;}
+.xl70
+	{mso-style-parent:style0;
+	color:black;
+	font-weight:700;
+	border-top:none;
+	border-right:.5pt solid #9BBB59;
+	border-bottom:none;
+	border-left:.5pt solid #9BBB59;
+	background:#C4D79B;
+	mso-pattern:black none;}
+.xl71
+	{mso-style-parent:style0;
+	color:black;
+	border-top:none;
+	border-right:.5pt solid #9BBB59;
+	border-bottom:none;
+	border-left:.5pt solid #9BBB59;}
+.xl72
+	{mso-style-parent:style0;
+	color:black;
+	vertical-align:top;
+	border:.5pt solid #9BBB59;}
